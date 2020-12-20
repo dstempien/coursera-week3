@@ -1,0 +1,55 @@
+#chicken, #beef, #sushi {
+	background-color: lightgrey;
+}
+
+#header-nav {
+	background-color: lightgrey;
+	margin-bottom: 0px;
+	border: solid;
+	border-color: black;
+	border-radius: 0;
+}
+
+
+#nav-list a:hover {
+	background: lightgrey;
+}
+
+#description {
+	margin-bottom: 15px;
+}
+
+#separator {
+	background-color: white;
+	padding-top: 15px;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #000000;
+}
+
+.navbar-nav {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.visible-xs, .hidden-sm, .hidden-md {
+  border-top: 1px solid #000000;
+}
+
+h4 {
+	margin-bottom: 20px;
+}
+
+h5 {
+	margin-top: 5px;
+	font-weight: bold;
+}
+
+li {
+	background-color: white;
+}
+
+ul {
+	margin-top: 0px;
+}
